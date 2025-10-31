@@ -1,6 +1,5 @@
 // Miles Goldberger
-// COP3330 0003
-// HW 5
+
 /* Created a menu, song, and playlist classes
  *
  * Song has an operator overload so that it prints properly. Song holds
